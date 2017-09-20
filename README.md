@@ -1,2 +1,0 @@
-# Unipoli
-Repositorio para prácticas
